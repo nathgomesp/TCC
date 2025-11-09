@@ -19,7 +19,7 @@ Estes arquivos compõem a versão final e funcional do projeto:
   SSID = "SuaRedeWiFi"
   PASSWORD = "SuaSenha"
 
-`i2c_lcd.py` e `i2c_lcd1.py` Módulos responsáveis pela comunicação com o display LCD via protocolo I2C. Permitem que os dados sejam exibidos de forma clara e eficiente.
+`i2c_lcd.py` e `lcd_api.py` Módulos responsáveis pela comunicação com o display LCD via protocolo I2C. Permitem que os dados sejam exibidos de forma clara e eficiente.
 
 🧪 Códigos Secundários / Testes
 Arquivos utilizados para testes, versões anteriores ou ambientes específicos:
